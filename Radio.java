@@ -19,9 +19,6 @@ public class Radio {
     }
     public void setMarca(String marca) {
         this.marca = marca;
-
-        dmenkrf
-        rfr
     }
     public int getBanda() {
         return banda;
